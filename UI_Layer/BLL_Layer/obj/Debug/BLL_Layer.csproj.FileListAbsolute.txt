@@ -1,0 +1,9 @@
+c:\users\399730\documents\visual studio 2010\Projects\UI_Layer\BLL_Layer\bin\Debug\BLL_Layer.dll
+c:\users\399730\documents\visual studio 2010\Projects\UI_Layer\BLL_Layer\bin\Debug\BLL_Layer.pdb
+c:\users\399730\documents\visual studio 2010\Projects\UI_Layer\BLL_Layer\bin\Debug\BO_Layer.dll
+c:\users\399730\documents\visual studio 2010\Projects\UI_Layer\BLL_Layer\bin\Debug\DAL_Layer.dll
+c:\users\399730\documents\visual studio 2010\Projects\UI_Layer\BLL_Layer\bin\Debug\BO_Layer.pdb
+c:\users\399730\documents\visual studio 2010\Projects\UI_Layer\BLL_Layer\bin\Debug\DAL_Layer.pdb
+c:\users\399730\documents\visual studio 2010\Projects\UI_Layer\BLL_Layer\obj\Debug\ResolveAssemblyReference.cache
+c:\users\399730\documents\visual studio 2010\Projects\UI_Layer\BLL_Layer\obj\Debug\BLL_Layer.dll
+c:\users\399730\documents\visual studio 2010\Projects\UI_Layer\BLL_Layer\obj\Debug\BLL_Layer.pdb
