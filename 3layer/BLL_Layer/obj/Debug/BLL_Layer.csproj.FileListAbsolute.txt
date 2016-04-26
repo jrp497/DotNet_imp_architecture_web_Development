@@ -1,0 +1,18 @@
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\BLL_Layer\bin\Debug\BLL_Layer.dll
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\BLL_Layer\bin\Debug\BLL_Layer.pdb
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\BLL_Layer\bin\Debug\BO_Layer.dll
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\BLL_Layer\bin\Debug\DAL_Layer.dll
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\BLL_Layer\bin\Debug\BO_Layer.pdb
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\BLL_Layer\bin\Debug\DAL_Layer.pdb
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\BLL_Layer\obj\Debug\ResolveAssemblyReference.cache
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\BLL_Layer\obj\Debug\BLL_Layer.dll
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\BLL_Layer\obj\Debug\BLL_Layer.pdb
+C:\Users\739159\Desktop\WebApplication10\BLL_Layer\bin\Debug\BLL_Layer.dll
+C:\Users\739159\Desktop\WebApplication10\BLL_Layer\bin\Debug\BLL_Layer.pdb
+C:\Users\739159\Desktop\WebApplication10\BLL_Layer\bin\Debug\BO_Layer.dll
+C:\Users\739159\Desktop\WebApplication10\BLL_Layer\bin\Debug\DAL_Layer.dll
+C:\Users\739159\Desktop\WebApplication10\BLL_Layer\bin\Debug\BO_Layer.pdb
+C:\Users\739159\Desktop\WebApplication10\BLL_Layer\bin\Debug\DAL_Layer.pdb
+C:\Users\739159\Desktop\WebApplication10\BLL_Layer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\739159\Desktop\WebApplication10\BLL_Layer\obj\Debug\BLL_Layer.dll
+C:\Users\739159\Desktop\WebApplication10\BLL_Layer\obj\Debug\BLL_Layer.pdb

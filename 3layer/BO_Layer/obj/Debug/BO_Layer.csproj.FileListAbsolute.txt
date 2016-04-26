@@ -1,0 +1,10 @@
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\BO_Layer\bin\Debug\BO_Layer.dll
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\BO_Layer\bin\Debug\BO_Layer.pdb
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\BO_Layer\obj\Debug\ResolveAssemblyReference.cache
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\BO_Layer\obj\Debug\BO_Layer.dll
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\BO_Layer\obj\Debug\BO_Layer.pdb
+C:\Users\739159\Desktop\WebApplication10\BO_Layer\bin\Debug\BO_Layer.dll
+C:\Users\739159\Desktop\WebApplication10\BO_Layer\bin\Debug\BO_Layer.pdb
+C:\Users\739159\Desktop\WebApplication10\BO_Layer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\739159\Desktop\WebApplication10\BO_Layer\obj\Debug\BO_Layer.dll
+C:\Users\739159\Desktop\WebApplication10\BO_Layer\obj\Debug\BO_Layer.pdb

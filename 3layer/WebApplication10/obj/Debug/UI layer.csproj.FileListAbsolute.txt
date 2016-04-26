@@ -1,0 +1,22 @@
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\WebApplication10\bin\WebApplication10.dll
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\WebApplication10\bin\WebApplication10.pdb
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\WebApplication10\bin\BLL_Layer.dll
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\WebApplication10\bin\BO_Layer.dll
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\WebApplication10\bin\DAL_Layer.dll
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\WebApplication10\bin\BLL_Layer.pdb
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\WebApplication10\bin\BO_Layer.pdb
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\WebApplication10\bin\DAL_Layer.pdb
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\WebApplication10\obj\Debug\ResolveAssemblyReference.cache
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\WebApplication10\obj\Debug\WebApplication10.dll
+c:\users\739159\documents\visual studio 2010\Projects\WebApplication10\WebApplication10\obj\Debug\WebApplication10.pdb
+C:\Users\739159\Desktop\WebApplication10\WebApplication10\bin\WebApplication10.dll
+C:\Users\739159\Desktop\WebApplication10\WebApplication10\bin\WebApplication10.pdb
+C:\Users\739159\Desktop\WebApplication10\WebApplication10\bin\BLL_Layer.dll
+C:\Users\739159\Desktop\WebApplication10\WebApplication10\bin\BO_Layer.dll
+C:\Users\739159\Desktop\WebApplication10\WebApplication10\bin\DAL_Layer.dll
+C:\Users\739159\Desktop\WebApplication10\WebApplication10\bin\BLL_Layer.pdb
+C:\Users\739159\Desktop\WebApplication10\WebApplication10\bin\BO_Layer.pdb
+C:\Users\739159\Desktop\WebApplication10\WebApplication10\bin\DAL_Layer.pdb
+C:\Users\739159\Desktop\WebApplication10\WebApplication10\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\739159\Desktop\WebApplication10\WebApplication10\obj\Debug\WebApplication10.dll
+C:\Users\739159\Desktop\WebApplication10\WebApplication10\obj\Debug\WebApplication10.pdb
