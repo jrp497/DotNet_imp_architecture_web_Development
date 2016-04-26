@@ -1,0 +1,11 @@
+c:\users\759795\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\bin\WebApplication3.dll
+c:\users\759795\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+c:\users\759795\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\bin\BLL.dll
+c:\users\759795\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\bin\ClassLibrary1.dll
+c:\users\759795\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\bin\DLL.dll
+c:\users\759795\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\bin\BLL.pdb
+c:\users\759795\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\bin\ClassLibrary1.pdb
+c:\users\759795\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\bin\DLL.pdb
+c:\users\759795\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\obj\Debug\ResolveAssemblyReference.cache
+c:\users\759795\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+c:\users\759795\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb

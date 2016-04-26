@@ -1,0 +1,9 @@
+c:\users\759795\documents\visual studio 2010\Projects\WebApplication3\BLL\bin\Debug\BLL.dll
+c:\users\759795\documents\visual studio 2010\Projects\WebApplication3\BLL\bin\Debug\BLL.pdb
+c:\users\759795\documents\visual studio 2010\Projects\WebApplication3\BLL\bin\Debug\ClassLibrary1.dll
+c:\users\759795\documents\visual studio 2010\Projects\WebApplication3\BLL\bin\Debug\DLL.dll
+c:\users\759795\documents\visual studio 2010\Projects\WebApplication3\BLL\bin\Debug\ClassLibrary1.pdb
+c:\users\759795\documents\visual studio 2010\Projects\WebApplication3\BLL\bin\Debug\DLL.pdb
+c:\users\759795\documents\visual studio 2010\Projects\WebApplication3\BLL\obj\Debug\ResolveAssemblyReference.cache
+c:\users\759795\documents\visual studio 2010\Projects\WebApplication3\BLL\obj\Debug\BLL.dll
+c:\users\759795\documents\visual studio 2010\Projects\WebApplication3\BLL\obj\Debug\BLL.pdb
